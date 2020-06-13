@@ -6,7 +6,7 @@
   "scripts": {
         "build": "tsc",
         "serve": "npm run build && node lib/index.js",
-        "start": "node lib/index.js",
+        "start": "node lib/index.js"
     },
   "repository": {
     "type": "git",
